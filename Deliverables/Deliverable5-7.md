@@ -66,6 +66,17 @@ Sprint Goal: have some integrated back end.
 | ------------| ----------------| ----------------| -----------|
 |007-1 | implement database structure for storing user data |Isaac | No |
 
+
+#### Epic-User Story ID Survey Implementation - 009
+
+| **Task ID** | **Description** | **Assigned To** | **Done?** |  
+|------------|----------------|----------------|-----------|  
+|009-1 | Fully merge the code to my branch and integrate slowly into the main branch | Abdurashid | Yes |  
+|009-2 | Store survey data in the database | Abdurashid | Yes |  
+|009-3 | Implement the logic of the survey fully to the database | Abdurashid | Yes |  
+|009-4 | Add backend integration for survey functionality | Abdurashid | Yes |  
+
+
 #### Improved front end design (chatbox) - 010
 
 | **Task ID** | **Description** | **Assigned To** | **Done?**| 
@@ -90,6 +101,12 @@ Sprint Goal: have some integrated back end.
 |001-5 |   Implemented new UI design | Jamima | Yes |
 |001-6| Improved user experience | Jamima | Yes |
 |002-4 | Started spring boot setup | Jamima | Yes |
+
+
+
+
+
+
 
 
 ### New/Revised Tasks
@@ -178,7 +195,7 @@ user can downloiad their data in a json/PDF file
 | **Task ID** | **Description** | **Story Point** | **Assigned To** |
 | ------------| ----------------| ----------------| ----------------|
 |008-1| implement database where users can delete that information | 8 | Isaac |
-|008-2| log the user/instance of deletion | 5 | Isaac |
+|008-2| log the user/instance of deletion | 5 | Isaac | 
 
 6. Epic user story ID users creating and saving the entries and goals 002
 
@@ -203,6 +220,19 @@ user can create and save their journal entries and goals (Backend)
 | ------------| ----------------| ----------------| ----------------|
 011-4 | Hard code default user interactions with LLM | 8 | Viktor |
 011-5 | Implement API calls for LLM to read user input, respond and store conversation data in backend | 3 | Viktor | 
+
+9. #### **Epic-User Story ID Survey Implementation - 009**  
+
+**Acceptance criteria:**  
+User responses are stored in the database, and the survey logic is fully functional with backend integration.  
+
+| **Task ID** | **Description** | **Story Point** | **Assigned To** |  
+|------------|----------------|----------------|----------------|  
+|009-1 | Merge the survey-related code into the main branch incrementally | 5 | Abdurashid |  
+|009-2 | Design and implement database schema for storing survey responses | 8 | Abdurashid |  
+|009-3 | Develop backend API endpoints for managing survey responses | 8 | Abdurashid |  
+|009-4 | Implement frontend-backend integration for survey submission | 5 | Abdurashid |  
+|009-5 | Test survey functionality end-to-end and fix bugs | 5 | Abdurashid |  
 
 
 
