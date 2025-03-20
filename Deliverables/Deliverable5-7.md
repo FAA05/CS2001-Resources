@@ -1,4 +1,4 @@
-# **Project Progress 3**
+ # **Project Progress 3**
 
 ### Group number 20
 
@@ -69,6 +69,19 @@ user can download their data in a json/PDF file
 | **Task ID** | **Description** | **Assigned To** | **Done?**| 
 | ------------| ----------------| ----------------| -----------|
 |005-2 | log the use/instance of deletion| Isaac | Yes |
+
+#### Epic-User Story ID Survey Implementation - 009
+**Acceptance criteria:**
+User responses are stored in the database, and the survey logic is fully functional with backend integration.
+
+| **Task ID** | **Description** | **Assigned To** | **Done?** |
+|------------|----------------|----------------|-----------|
+| 009-1 | Merge the survey-related code into the main branch incrementally | Abdurashid | Yes |
+| 009-2 | Design and implement database schema for storing survey responses | Abdurashid | Yes |
+| 009-3 | Develop backend API endpoints for managing survey responses | Abdurashid | Yes |
+| 009-4 | Implement frontend-backend integration for survey submission | Abdurashid | Yes |
+| 009-5 | Test survey functionality end-to-end and fix bugs | Abdurashid | Yes |
+
 
 
 ### New/Revised Tasks
